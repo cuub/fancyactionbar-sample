@@ -1,0 +1,34 @@
+<com.cuubonandroid.fancyactionbar.ListeningScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:src="@drawable/android" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec urna et arcu tempus dictum a eu nibh. Nullam lobortis non sapien condimentum suscipit. Cras blandit nunc vel eleifend facilisis. Vivamus venenatis nulla ac neque convallis, at pulvinar orci iaculis. In tincidunt neque sit amet porta porta. Ut volutpat rhoncus fringilla. Cras condimentum gravida odio semper adipiscing. Phasellus nulla tellus, dignissim nec est vitae, blandit porta sem. Cras suscipit commodo est, eu cursus lacus posuere sit amet. Vestibulum vel feugiat quam. Nam vitae molestie justo.
+
+Phasellus in lorem in turpis vehicula auctor id non eros. Morbi eget justo euismod, gravida tellus vel, fermentum felis. Donec convallis elit in mi accumsan, vel pellentesque nulla mollis. Donec venenatis velit at ante blandit accumsan. Mauris id neque a eros tincidunt adipiscing et auctor libero. Etiam in dui nec nulla dignissim eleifend nec ut mi. Pellentesque at enim id justo ullamcorper suscipit. In hac habitasse platea dictumst. Phasellus tristique cursus mattis. Morbi rutrum, magna a luctus vehicula, libero nisl consequat lacus, sit amet fermentum nibh justo ac nulla. Nullam lectus nibh, consectetur in pharetra sit amet, consectetur sed mi. In gravida leo libero, sit amet hendrerit ipsum auctor sit amet. Vestibulum sollicitudin magna sed nunc fermentum, ac ultrices erat ultrices. Ut aliquam nibh vel sem mattis dictum. Cras dignissim viverra pretium.
+
+Nulla posuere massa et magna tempor interdum. Nunc mi sapien, euismod eu placerat ac, imperdiet sit amet mi. Maecenas augue dolor, tincidunt sodales nibh quis, commodo scelerisque justo. Suspendisse vel ipsum nunc. Phasellus eget arcu luctus, rutrum massa in, tincidunt sapien. Suspendisse condimentum augue vitae ligula imperdiet rutrum. Integer hendrerit feugiat dolor. Mauris semper dui a mi imperdiet, vel feugiat arcu lobortis. Phasellus sit amet sapien a ante tristique suscipit non a leo. Nullam eget arcu ligula. Suspendisse potenti. Nunc hendrerit nunc eget sapien aliquet dignissim. Curabitur quis sodales nisl, nec ullamcorper diam. Praesent tristique nisl non nunc condimentum, consequat elementum nisl feugiat. Sed varius erat et varius porttitor.
+
+Morbi luctus sagittis neque in consequat. Integer id ultrices mauris. Cras in nunc aliquam, pellentesque neque vitae, pharetra tellus. Nulla tincidunt libero at massa molestie, vel ornare sem imperdiet. Proin egestas sagittis mollis. Quisque a lectus id lectus vestibulum ultrices. Ut in mi eget arcu bibendum euismod non vitae libero. Pellentesque luctus erat risus, sit amet elementum dui ullamcorper sodales. Integer ante diam, eleifend ut sapien quis, elementum varius augue. Cras nibh mi, scelerisque non hendrerit in, tincidunt in metus. Duis condimentum, lacus at molestie tristique, erat tellus fringilla sapien, in porttitor turpis nulla ut lectus. Suspendisse nunc justo, consectetur quis turpis nec, cursus pulvinar sem. Praesent egestas erat libero, sit amet sodales nunc sodales imperdiet. Donec vitae sem in neque placerat condimentum sit amet id ligula. Pellentesque non accumsan massa. Suspendisse sed sodales dolor.
+
+Etiam vitae nisl convallis, interdum augue non, hendrerit ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla non augue sed erat vestibulum dapibus. Nulla." >
+        </TextView>
+    </LinearLayout>
+
+</com.cuubonandroid.fancyactionbar.ListeningScrollView>
